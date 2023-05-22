@@ -1,4 +1,4 @@
 # Codewars Badge:
 
 
-![image](https://www.codewars.com/users/xreiz0r/badges/micro)
+![image](https://www.codewars.com/users/xreiz0r/badges/large)
